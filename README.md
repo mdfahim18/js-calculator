@@ -6,4 +6,4 @@ test 5 changed
 
 ps1
 ps2
-ps3.
+ps3
